@@ -11,6 +11,12 @@
 public class MahasiswiAksi {
     public static void main (String[] args) {
         Mahasiswi Liza = new Mahasiswi();
+        
+        Liza.nama="Siti Nur Haliza";
+        Liza.NPM="16630941";
+        Liza.Kelas="4B Nonreg bjb";
+        Liza.IPK=3.5;
+        
     }
     
 }
