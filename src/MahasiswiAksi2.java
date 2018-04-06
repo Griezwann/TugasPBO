@@ -17,5 +17,7 @@ public class MahasiswiAksi2 {
         Dini.Kelas="4B Nonreguler bjb";
         Dini.agama="Islam";
         Dini.IPK=3.5;
-    }
+        
+        Dini.cetakInfo();
+        }
 }
