@@ -12,12 +12,14 @@ public class Mahasiswi {
     String nama;
     String NPM;
     String Kelas;
+    String agama;
     double IPK;
     
     void cetakInfo(){
         System.out.println("Nama   :"+nama);
         System.out.println("NPM    :"+NPM);
         System.out.println("Kelas  :"+Kelas);
+        System.out.println("agama  :"+agama);
         System.out.println("IPK    :"+IPK);
     }
 }
