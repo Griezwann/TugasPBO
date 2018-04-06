@@ -17,6 +17,8 @@ public class MahasiswiAksi {
         Liza.Kelas="4B Nonreg bjb";
         Liza.IPK=3.5;
         
+        Liza.cetakInfo();
+        
     }
     
 }
