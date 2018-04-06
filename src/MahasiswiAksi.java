@@ -15,6 +15,7 @@ public class MahasiswiAksi {
         Liza.nama="Siti Nur Haliza";
         Liza.NPM="16630941";
         Liza.Kelas="4B Nonreg bjb";
+        Liza.agama="Islam";
         Liza.IPK=3.5;
         
         Liza.cetakInfo();
