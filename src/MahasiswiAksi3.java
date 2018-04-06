@@ -10,6 +10,6 @@
  */
 public class MahasiswiAksi3 {
     public static void main (String[] args) {
-        
+        Mahasiswi Fina = new Mahasiswi();
     }
 }
