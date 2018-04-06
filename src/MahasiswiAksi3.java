@@ -17,5 +17,7 @@ public class MahasiswiAksi3 {
         Fina.Kelas="4B Nonreguler bjb";
         Fina.agama="Islam";
         Fina.IPK=3.5;
+        
+        Fina.cetakInfo();
     }
 }
