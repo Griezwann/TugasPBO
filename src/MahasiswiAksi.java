@@ -10,7 +10,7 @@
  */
 public class MahasiswiAksi {
     public static void main (String[] args) {
-        
+        Mahasiswi Liza = new Mahasiswi();
     }
     
 }
